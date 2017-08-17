@@ -1,6 +1,6 @@
 #Test
 import datetime
-names_file = 'data/dow30.csv'
+names_file = 'Dow30/dow_30.csv'
 
 #Get data from the previous 10 years (2007 - 2017)
 start = datetime.datetime(2007, 1, 1)
