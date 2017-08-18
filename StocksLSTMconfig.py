@@ -1,4 +1,4 @@
-#Test
+#Define the parameters
 import datetime
 names_file = 'Dow30/dow_30.csv'
 
